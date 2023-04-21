@@ -1,3 +1,3 @@
 # CMSC203
 
-All the projects for CMSC203
+project0 and project1 for CMSC203
